@@ -24,6 +24,10 @@ Performs some basic neural network tasks using Pytorch's utilities on the "hello
 
 A CNN model for MiniPlaces Dataset
 
+### Homework 8
+
+Generate successors and implement a minimax algorithm for the Teeko game.
+
 ### Homework 9
 
 Implements an efficient search algorithm (A* Search) on the 8-tile puzzle. It is played on a 3x3 grid with 8 tiles labeled 1 through 8 and an empty grid. Rearranges the tiles so that they are in order.
