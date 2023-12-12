@@ -4,7 +4,7 @@
 
 Underlying FEA Stiffness Matrix theory problems done by hand.
 
-### Homework 2
+### Homework 2 - Link180 Elements and Symmetry
 
 Used Link180 Elements in Ansys MAPDL to learn how linear varying axial loads affect nodal 
 displacements and axial stress and understanding how varying the numbers of elements for the 
@@ -13,7 +13,7 @@ use symmetry for a roof truss problem. Both problems are also being modeled in t
 software Ansys. The accuracy of the FE solutions for different numbers of elements are going to 
 be compared to analytical answers derived from a finite element analysis approach.
 
-### Homework 3
+### Homework 3 – Two-Dimensional Model for a Frame
 
 In this homework question, a frame supports a floor that is subjected to a vertical load. The 
 frame is composed of two vertical steel pipe members that support a horizontal I-beam. The task 
@@ -22,7 +22,7 @@ determine the maximum vertical deflection and bending stresses in the portion BC
 
 <img width="807" alt="image" src="https://github.com/HindsboNikolaj/Undergraduate-Projects/assets/71987494/f9d9474d-17fc-4b0d-b080-0ff9c85d57d4">
 
-### Homework 4
+### Homework 4 – Pulley-Shaft System
 
 In this homework question, the task of a new engineer from BadgerDyn Corp. is to design a solid 
 round shaft for the pulley-shaft system below. The task of the engineer is to determine the 
@@ -33,7 +33,7 @@ determine the appropriate diameter of the shaft to meet these specifications.
 
 <img width="341" alt="image" src="https://github.com/HindsboNikolaj/Undergraduate-Projects/assets/71987494/4bdebcca-8063-4d0a-acd1-b93ed1cf7025">
 
-### Homework 5
+### Homework 5 – Plate With Pressure Forces
 
 In this homework, the task is to model the plate pictured below in Figure 1 that is 
 subject to axial and normal pressures. The plate is made of 409 stainless steel. The goal is to 
@@ -44,16 +44,16 @@ plate.
 
 <img width="475" alt="image" src="https://github.com/HindsboNikolaj/Undergraduate-Projects/assets/71987494/b2dd7c97-d46d-4532-a0aa-45f02d496564">
 
-### Homework 6
+### Homework 6 - Modal Analysis
 
-In this homework question, task is to model the space truss pictured in Figure 1. A space truss 
+In this homework question, the task is to model the space truss pictured in Figure 1. A space truss 
 can be used in space with various functions. The space truss is made of steel with an Elastic 
 modulus of 200 GPa, a Poisson’s ratio of 0.3, cross-sectional members of 0.01m^2, and a mass 
 density of 7860 kg/m^3.
 
 <img width="357" alt="image" src="https://github.com/HindsboNikolaj/Undergraduate-Projects/assets/71987494/731e7fad-7fdf-459c-8b99-fc9f583c463b">
 
-### Homework 7
+### Homework 7 – Nonlinear Analysis of Plastic Deformation
 
 In this homework, the task is to model the thick-walled pipe that is subject to an internal 
 pressure. We are assuming that the pipe is in plane stress, so that it is a 2D analysis. The pipe has 
@@ -62,7 +62,7 @@ Poisson’s ratio of 0.3 is used. Symmetry was used to solve this problem as wel
 
 <img width="436" alt="image" src="https://github.com/HindsboNikolaj/Undergraduate-Projects/assets/71987494/c0a0d5eb-7427-4e18-998a-493b9ffb27a9">
 
-### Homework 8
+### Homework 8 - Shrink-Fit Thermal Analysis
 
 In this homework, the model is to task a shrink fit problem, where two circular rings are 
 assembled by shrink fit. The outer ring is at a significantly higher temperature (100 C, 20 C) than 
