@@ -8,3 +8,6 @@ If you would like to play our game here is an link to the APK: https://drive.goo
 If you would like to see a demo of our game here is a link to our presentation: https://drive.google.com/file/d/1NkbaAxm0ux7oXxd0SBEJDsw8nZf1GJbJ/view?usp=sharing
 
 The demo of our game starts at `3:30` in the video. 
+
+
+For full unity assets needed see https://github.com/HindsboNikolaj/CS579-VR_GAME
