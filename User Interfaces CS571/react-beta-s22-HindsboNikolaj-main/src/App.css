@@ -1,0 +1,60 @@
+.sidebar {
+  width: calc(20vw - 5px);
+  margin-left: 5px;
+  height: calc(100vh - 10px);
+  position: fixed;
+}
+
+.star {
+  background: transparent;
+  border: none;
+  font-size: 1.5rem;
+}
+
+.star-disabled {
+  filter: grayscale(100%);
+}
+
+.rating {
+  font-weight: 700;
+}
+
+.tabColors {
+  color: white;
+}
+
+.nav-tabs .nav-item.show .nav-link, 
+.nav-tabs .nav-link.active.tabColors {
+  color: black;
+  background-color: rgb(5, 197, 190);
+}
+
+.tabHelp{
+  position: absolute;
+  top:0px;
+  right: 10px;
+}
+
+.left-element {
+  width: 100%;
+  display: inline-block;
+  }
+
+.right-element {
+  width:80%;
+  display: inline-block;
+  float:right;
+}
+
+.CartMessage{
+  background: rgb(255, 168, 0);
+  text-align: center;
+  border-radius:7px;
+}
+
+.helpTab{
+  text-align: center;
+  color: white;
+  font-family: "Times New Roman";
+  font-size: 25px;
+}
