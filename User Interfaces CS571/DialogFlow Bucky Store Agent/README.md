@@ -1,5 +1,12 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7767358&assignment_repo_type=AssignmentRepo)
+
+<img width="896" alt="image" src="https://github.com/CS571/dialogflow-s22-HindsboNikolaj/assets/71987494/ecb617f6-db82-475d-af47-06555050ce6a">
+
+### This Dialogflow project implements a Dialogflow agent that is able to respond to certain phrases as well as perform backend operations on the UI shop that I built.
+
 # Basic Setup
+
+We have elected to provide the option to fetch from a local instance of the endpoint, because a Dialogflow intent has an inflexible timeout deadline of 5 seconds, and some students may not have a 5 second latency to our online endpoint. 
 
 In index.js and webhook.js ,there are the USE_LOCAL_ENDPOINT flags, which tell the web interface and dialogflow webhook whether requests should target the online endpoint or a local instance of the endpoint. 
 
