@@ -7,4 +7,4 @@ At UW-Madison I studied Engineering Mechanics with a minor in Computer Science.
 Omitted are classes that were more heavy in hand-written deliveries. Omitted also, notably, are most of my Computer Science Principles projects, as they were quite backend heavy - just focused on CS Principles
 such as polymorphism and implementing data types.
 
-`You can find a more complete list of courses I took and skills that I have in my resume that was last updated: 12/12/2023`
+`You can find a more complete list of courses I took and skills that I have in my resume that was last updated: 12/20/2023`
